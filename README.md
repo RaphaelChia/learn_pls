@@ -7,6 +7,10 @@ then push it back
 
 
 ok boss i have changed it :-)
+
+
+
+ok now the branch is diff
   
   ok now main is not the same as your 
 asdasd
